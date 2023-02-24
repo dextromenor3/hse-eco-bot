@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hse-eco-bot",
+    "\\hse-eco-bot\\src",
+    "\\hse-eco-bot\\src\\kb",
+    "\\hse-eco-bot\\src\\kb\\providers",
+    "\\hse-eco-bot\\src\\kb\\providers\\db",
+    "\\hse-eco-bot\\src\\kb\\providers\\db\\sql",
+    "\\kb",
+    "\\kb\\Сортировка отходов",
+    "\\scripts"
+  ],
+  "SelectedNode": "\\scripts\\install.py",
+  "PreviewInSolutionExplorer": false
+}

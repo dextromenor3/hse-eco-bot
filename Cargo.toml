@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "hse-eco-bot",
+    "hse-eco-bot-macros",
+]
+
+
+
+
